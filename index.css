@@ -1,0 +1,154 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-colour:Green;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif; */
+    /* body{
+        margin:0 auto; padding:8px;
+        text-align: center;
+        background-color: rgb(240,250,240);
+        display: block;
+        Buttons: #6CB840
+      } */
+      body{
+        margin: 0%;
+        padding: 0%;
+        text-align: center;
+        background-color:#649549;
+
+
+    
+}
+/* Add a green background color to the Eclipse */
+.eclpse{
+  background-color: #649549;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #649549;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  text-decoration: #EAAB1B(light orange)  and  #6CB840(light green );
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #649549;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #649549;
+  color: white;
+}/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #649549;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #649549;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #649549;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #649549;
+  color: white;
+}
+h1 {
+  font-family: 'Courier New', 'Sans-Serif';
+  color: grey;
+  font-size: 28px;
+  text-align: center;
+  text-decoration:  #EAAB1B(light orange)  and  #6CB840(light green;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Times New Roman', cursive;
+  color: gray;
+  text-decoration:  #EAAB1B(light orange)  and  #6CB840(light green;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  
+  font-style: italic;
+  text-align: left;
+} 
+
+p{
+
+  color: black;
+  font-weight: 200;
+  font-style: oblique;
+  font-family: fantasy;
+  
+  }
+  a{
+      display: block;
+  }
+  .song{
+      display: block;
+      
+  }
+  /* p{
+      font-weight: bold;
+     } */
+   /* ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    } */
+    /* *{
+      text-align:center;
+  }
+  img{
+      height:150px;
+  }
+  h3{
+      color:#649549;
+      font-weight:bold;
+  }
+  h1{
+      color:#649549;
+      font-family:helvetica;
+  }
+  p{
+      background-color:#C9ECB5;
+      border:1px solid black;
+      padding:10px;
+    
+  } */ */
+  /* li{
+      display: inline; */
+  /* } */
+  /* a{
+      display: block;
+  }
+  img {
+      width: 300px;
+      height: 200px;
+    }  */
