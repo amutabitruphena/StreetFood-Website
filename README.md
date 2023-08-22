@@ -1,7 +1,20 @@
 # StreetFood-Website
-##Author Name Truphena Khavele
-**description**:street foods are are foods which are ready-to-eat they include foods and beverages prepared and/or sold by vendors or hawkers, especially in the streets and other similar places. 
-They represent a significant part of urban food consumption for millions of low-and-middle-income consumers,in urban areas on a daily basis.
+This website is called street food because it contains foods that are ready to be -eaten and  they include foods and beverages prepared and/or sold by vendors or hawkers, especially in the streets and other similar places.
+## introduction.
+The aim of this webpage is to give a description of what street food means.
+The Foods founds in the streets.
+It also provides images of the foods prepared on the streets a short.
+### Author.
+This website was designed by Truphena Khavele.
+#### Technology.
+Built with HTML and styled with CSS.
+HTML 5.0 is the version used to design the webpage.
+##### Description.
+This website is called street food because it contains foods that are ready to be -eaten and  they include foods and beverages prepared and/or sold by vendors or hawkers, especially in the streets and other similar places.
+The webpage is built using HTML and styled using CSS.
+I have posted this webpage on GitHub pages .use the link to run the webpage 
+Street foods are are foods which are ready-to-eat they include foods and beverages prepared and/or sold by vendors or hawkers, especially in the streets and other similar places. 
+They represent a significant part o urban food consumption for millions of low-and-middle-income consumers,in urban areas on a daily basis.
 **set up instructions:** The website should be accessed mostly by customers,it should have a profit and food must be bought and not be donated.It should have good nice qualty and delicious meals which are well prepared
 **link to site live on GitHub pages:** https://amutabitruphena.github.io/StreetFood-Website/
 **Copyright and lisence information**
