@@ -10,17 +10,11 @@ This website was designed by Truphena Khavele.
 Built with HTML and styled with CSS.
 HTML 5.0 is the version used to design the webpage.
 ##### Description.
-This website is called street food because it contains foods that are ready to be -eaten and  they include foods and beverages prepared and/or sold by vendors or hawkers, especially in the streets and other similar places. Street foods are foods that are ready-to-eat they include foods and beverages prepared and/or sold by vendors or hawkers, especially in the streets and other similar places. 
-The webpage is built using HTML and styled using CSS.
-
-They represent a significant part o urban food consumption for millions of low-and-middle-income consumers,in urban areas on a daily basis.
-**set up instructions:** The website should be accessed mostly by customers,it should have a profit and food must be bought and not be donated.It should have good nice qualty and delicious meals which are well prepared
-**link to site live on GitHub pages:** https://amutabitruphena.github.io/StreetFood-Website/
-**Copyright and lisence information**
-**MIT License**
-
+This website is called street food because it contains foods that are ready to be -eaten and  they include foods and beverages prepared and/or sold by vendors or hawkers, especially in the streets and other similar places.
+They represent a significant part o urban food consumption for millions of low-and-middle-income consumers, in urban areas on a daily basis.  
+The webpage is built using HTML and styled using CSS. The link to the site live on GitHub pages are https://amutabitruphena.github.io/StreetFood-Website/
+###### License.
 Copyright (c) 2023 amutabitruphena
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -37,4 +31,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE License
