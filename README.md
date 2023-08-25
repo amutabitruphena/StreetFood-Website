@@ -1,5 +1,10 @@
 # StreetFood-Website
 This website is called street food because it contains foods that are ready to be -eaten and  they include foods and beverages prepared and/or sold by vendors or hawkers, especially in the streets and other similar places.
+This is the landing page for a streetfood website. The project is to test my understanding and skill in HTML and CSS up to now. I am to design the page with clear identification from a guiding png provided.
+
+Header	Body	Footer
+Header	Body	Footer
+The main goal is to create a page that resembles the one provided.
 ## introduction.
 The aim of this webpage is to give a description of what street food means.
 The Foods founds in the streets.
