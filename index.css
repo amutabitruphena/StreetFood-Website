@@ -1,154 +1,213 @@
-/* body{
-    margin: 0;
-    padding: 0;
+{
+    font-family: 'Times New Roman', Times, serif;
+    scroll-behavior: smooth;
+}
+
+nav>ul>li {
+    text-align: left;
+    display: inline-block;
+    padding-left: 90px;
+    padding-top: 40px;
+    text-decoration: none;
+}
+.header1 {
+    width: 100%;
+}
+
+.header101 {
+}
+
+.header102 {
+    width: 10%;
+}
+
+.header103 {
+}
+
+.btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    clip-path: circle(600px at 80% 900px);
+    transform: scaleY(-1);
+}
+
+.header2 {
+    width: 80%;
+}
+
+.header201 {
+    width: 45%;
+    float: left;
+}
+
+.header202 {
+    width: 45%;
+    float: right;
+}
+
+.btn1 {
+    background-color: #6CB840;
+    border-color: #6cb84005;
+    border-radius: 10%;
+}
+
+.body101 {
+    width: 50%;
+    float: left;
+}
+
+.body102 {
+    width: 50%;
+    float: right;
+}
+
+.join{
+    display: flex;
+    margin-top: -50px;
+}
+
+.them{
+    margin-top: 25%;
+    margin-left: -350px;
+    margin-bottom: -50px;
+}
+
+.hot {
+    background-color: #C9ECB5;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 900px;
+}
+#hot {
     text-align: center;
-    background-colour:Green;
-    display: block;
-    font-family: Arial, Helvetica, sans-serif; */
-    /* body{
-        margin:0 auto; padding:8px;
-        text-align: center;
-        background-color: rgb(240,250,240);
-        display: block;
-        Buttons: #6CB840
-      } */
-      body{
-        margin: 0%;
-        padding: 0%;
-        text-align: center;
-        background-color:#649549;
-
-
-    
-}
-/* Add a green background color to the Eclipse */
-.eclpse{
-  background-color: #649549;
-  overflow: hidden;
+    padding-top: 30px;
 }
 
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #649549;
-  text-align: center;
-  padding: 14px 16px;
-  font-size: 17px;
-  text-decoration: #EAAB1B(light orange)  and  #6CB840(light green );
+.deals {
+    padding-left: 900px;
+    margin-top: -400px;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #649549;
-  color: black;
+.likemeat {
+    display: flex;
+    padding: 0;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #649549;
-  color: white;
-}/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #649549;
-  overflow: hidden;
+.pione {
+    display: flex;
+    margin-top: -50px;
 }
 
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #649549;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+.pitwo {
+    margin-top: 25%;
+    margin-left: -350px;
+    margin-bottom: -50px;
+} 
+
+.p {
+    padding-right: 150px;
+    text-align: center;
+    padding-left: 10px;
+}
+.b {
+    padding-left: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+} 
+.burger {
+    padding-left: 250px;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #649549;
-  color: black;
+.contact {
+    text-align: center;
+    background-color: #FFD77C;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #649549;
-  color: white;
+#contact {
+    padding-top: 30px;
 }
-h1 {
-  font-family: 'Courier New', 'Sans-Serif';
-  color: grey;
-  font-size: 28px;
-  text-align: center;
-  text-decoration:  #EAAB1B(light orange)  and  #6CB840(light green;
+
+.eat {
+    text-align: center;
+    float: right;
+    padding-top: 200px;
+}
+
+.img {
+    float: left;
 }
 
 h2 {
-  text-align: center;
-  font-family: 'Times New Roman', cursive;
-  color: gray;
-  text-decoration:  #EAAB1B(light orange)  and  #6CB840(light green;
+    text-align: left;
 }
 
-ul {
-  list-style-type: none;
+button {
+    color: white;
+    border-radius: 20px;
+    background-color: #6CB840;
+    border-style: none;
+    width: 120px;
+    height: 35px;
+    padding-top: 3px;
+    margin-bottom: 50px;
 }
 
-li {
-  
-  font-style: italic;
-  text-align: left;
-} 
+.email {
+    width: 25%;
+    text-align: left;
+    background-color: white;
+    color: black;
+}
+.send {
+    width: 120px;
+    height: 35px;
+    padding-top: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 45%;
+    margin-bottom: 80px;
+    margin-top: 5px;
+}
 
-p{
+#send {
+    width: 50px;
+    height: 20px;
+    border-radius: 0px;
+    margin-left: 1300px;
+}
+.icon {
+    border-radius: 0px;
+    margin-left: 1300px;
+    border-style: none;
+}
+.sunday {
+    float: left;
+    margin-left: 20px;
+}
+.chestnut {
+    float: left;
+    padding-left: 30px;
+    margin-top: 50px;
+    border-left: #649549;
+    border-left-style: dashed;
+}
+.follow {
+    float: right;
+    padding-right: 100px;
+    margin-top: 50px;
+}
 
-  color: black;
-  font-weight: 200;
-  font-style: oblique;
-  font-family: fantasy;
-  
-  }
-  a{
-      display: block;
-  }
-  .song{
-      display: block;
-      
-  }
-  /* p{
-      font-weight: bold;
-     } */
-   /* ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-    } */
-    /* *{
-      text-align:center;
-  }
-  img{
-      height:150px;
-  }
-  h3{
-      color:#649549;
-      font-weight:bold;
-  }
-  h1{
-      color:#649549;
-      font-family:helvetica;
-  }
-  p{
-      background-color:#C9ECB5;
-      border:1px solid black;
-      padding:10px;
-    
-  } */ */
-  /* li{
-      display: inline; */
-  /* } */
-  /* a{
-      display: block;
-  }
-  img {
-      width: 300px;
-      height: 200px;
-    }  */
+footer {
+    background-color: #C9ECB5;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 60px;
+}
